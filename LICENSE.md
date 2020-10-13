@@ -29,4 +29,4 @@ In case any part of this agreement should for any reason be considered invalid, 
 
 By installing, downloading, storing a copy of or using RYRY1002 Shaders you agree to all of the terms and conditions. They can and will, if deemed neccessary by RYRY1002, be enforced by going to law.
 
-For further questions concerning RYRY1002 Shaders, its use or this license please contact RYRY1002 on Discord, Twitter or GitHub. (http://links.riley.technology)
+For further questions concerning RYRY1002 Shaders, its use or this license please contact RYRY1002. The best way to get in contact with him is via Discord or Twitter. (http://links.riley.technology)
