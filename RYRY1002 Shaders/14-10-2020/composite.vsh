@@ -16,11 +16,15 @@ void main() {
 
   if(worldTime < 12700 || worldTime > 23250) {
     lightVector = normalize(sunPosition);
+    //Change the "lightColor" value below to change the amount of light emitted by the sun.
     lightColor = vec3(1.0);
+    //Change the "skyColor" value below to change the brightness of the day.
     skyColor = vec3(0.3);
   } else {
     lightVector = normalize(moonPosition);
-    lightColor = vec3(0.1);
-    skyColor = vec3(0.125);
+    //Change the "lightColor" value below to change the amount of light emitted by the moon.
+    lightColor = vec3(0.15);
+    //Change the "skyColor" value below to change the brightness of the night.
+    skyColor = vec3(0.2);
   }
 }
